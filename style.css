@@ -1,0 +1,115 @@
+/*.channels-Ie2l6A {
+  display: none;
+}
+.animatedContainer-1pJv5C {
+  display: none;
+}*/
+:root {
+  --transition-duration: 200ms;
+}/*
+.membersWrap-2h-GB4 {
+  display: none:root {
+
+  }
+}*/
+/*
+.sidebar-2K8pFh {
+  display: none;
+}
+.wrapper-1Rf91z:hover ~ {
+  display: none;
+}
+*/
+.wordmarkWindows-1v0lYD {
+  display: none;
+}/*
+.titleWrapper-1l0xT9 {
+  display: none;
+}
+.scroller-2wx7Hm > :first-child > :first-child {
+  display: none;
+}
+.scroller-2wx7Hm > :first-child > :nth-child(2) {
+  padding-top: 0%;
+}
+
+/* .base-3dtUhz:hover {
+  left: 0;
+} */
+.guilds-1SWlCJ {
+  
+}
+.tree-3tCaw8 {
+  transition: width var(--transition-duration) ease;
+}
+.tree-3tCaw8 {
+  width: 0;
+}
+.base-3dtUhz {
+  left: 0;
+  transition: var(--transition-duration) ease;
+}
+.guilds-1SWlCJ {
+  z-index: 10;
+  background-color: transparent;
+}
+.guilds-1SWlCJ:hover ~ .base-3dtUhz {
+  left: 72px;
+
+}
+.guilds-1SWlCJ:hover > .tree-3tCaw8 {
+  /*display: block;*/
+  width: 72px;
+
+}
+.sidebar-2K8pFh {
+  flex-direction: column-reverse;
+  /*240px*/
+}
+.sidebar-2K8pFh {
+  width: 72px;
+  transition: var(--transition-duration) ease;
+}
+.sidebar-2K8pFh:hover {
+  width: auto;
+  transition: width var(--transition-duration) ease;
+}
+.privateChannelsHeaderContainer-3NB1K1 {
+  display: none;
+}/*
+.panels-j1Uci_, .inspector-S2gM3e, .noticeRegion-1YviSH > div, .upsellFooter-ZYsio_ {
+  background-color: var(--background-primary) !important;
+}*/
+.panels-j1Uci_ {
+  z-index: 11;
+  background-color: var(--background-primary);
+  box-shadow: var(--elevation-low);
+  height: 48px;
+}
+.title-3qD0b- {
+  z-index: 11;
+}
+.winButtonMinMax-PBQ2gm.winButton-iRh8-Z.flexCenter-3_1bcw.flex-1O1GKY.justifyCenter-3D2jYp.alignCenter-1dQNNs[aria-label="Maximize"] {
+  display: none;
+}
+.withFrame-haYltI {
+  justify-content: space-between;
+  height: 10px;
+}
+.winButton-iRh8-Z {
+  color: transparent;
+}
+
+.containerCozyBounded-1rKFAn,
+form {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.typing-2GQL18 {
+  padding-left: 15%;
+}
+
+.cooldownWrapper-3joyFc {
+  margin-right: 30%;
+}
