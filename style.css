@@ -67,11 +67,11 @@
   /*240px*/
 }
 .sidebar-2K8pFh {
-  width: 72px;
+  /*width: 72px;*/
   transition: var(--transition-duration) ease;
 }
 .sidebar-2K8pFh:hover {
-  width: auto;
+  /*width: auto;*/
   transition: width var(--transition-duration) ease;
 }
 .privateChannelsHeaderContainer-3NB1K1 {
@@ -113,3 +113,89 @@ form {
 .cooldownWrapper-3joyFc {
   margin-right: 30%;
 }
+/*user*/
+.container-3baos1 {
+  height: 48px;
+}
+/*now cool users*/
+/* Cool Member List */
+:root {
+  --hover-animation-speed: 0.35s;
+  --seperator-color: var(--background-accent);
+}
+
+.membersWrap-2h-GB4 {
+  min-width: unset;
+  width: 65px;
+  justify-content: right;
+}
+
+.members-1998pB {
+  transition: transform var(--hover-animation-speed);
+}
+
+.membersWrap-2h-GB4:hover .members-1998pB {
+  transform: translateX(-190px);
+}
+
+.membersWrap-2h-GB4 .membersGroup-v9BXpm::after {
+  content: '';
+  width: 30px;
+  height: 2px;
+  border-radius: 50px;
+  background: unset;
+  background-color: var(--seperator-color);
+  position: absolute;
+  left: -36px;
+  top: 29px;
+  margin-left: 0px;
+}
+
+.membersWrap-2h-GB4 .members-1998pB .member-3-YXUe {
+  background-color: unset;
+  margin-left: 0px;
+  transition: margin-left var(--hover-animation-speed);
+}
+
+.membersWrap-2h-GB4:hover .members-1998pB .member-3-YXUe {
+  margin-left: 8px;
+}
+
+.membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
+  transform: translateX(-6px);
+}
+
+.membersWrap-2h-GB4 .membersGroup-v9BXpm {
+  cursor: default;
+  transform: translateX(45px);
+  transition: transform 0.1s;
+  overflow: visible;
+}
+
+.members-1998pB {
+border-radius: 15px 15px 0 0 !important;
+}
+.membersWrap-2h-GB4, .members-1998pB {
+  left: 13px;
+  margin-right: 5px
+  
+
+}
+.chat-3bRxxu {
+background: var(--background-tertiary);
+}
+.chatContent-a9vAAp {
+background-color: var(--background-primary);
+border-radius: 0 15px 0 0 !important;
+left: 25px;
+margin-left: -25px
+}
+/*shadow on members*/
+div#members-755015869914152981 {
+  box-shadow: 10px 0px 20px 0px black;
+}
+/*Compressed search*/
+/* Compressed Search Bar */
+.search-2oPWTC .searchBar-3dMhjb {width:25px;transition-duration:600ms;}
+.search-2oPWTC .searchBar-3dMhjb:hover {width:250px !important;}
+.search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {width: 250px !important;}
